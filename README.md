@@ -1,5 +1,8 @@
 ## 👋 Hi, I'm Davide
 
+Welcome to my GitHub profile!
+
+# 🧠 Main Stack
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
