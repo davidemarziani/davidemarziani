@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Davide
 
-Welcome to my GitHub profile!
+I'm a web developer with a strong foundation in PHP, WordPress, and JavaScript. I enjoy building practical solutions, learning new technologies, and improving my skills through real-world projects.
 
 # 🧠 Main Stack
 
